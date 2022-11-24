@@ -1,6 +1,6 @@
 template:
   includes:
-    before_title: '<a href="https://2degrees-investing.org"><img src="https://2degreesinvesting.github.io/r2diitemplate/2DII-Logo-Blue.svg" id="navlogo" alt="2 Degrees Investing Initiative"></a>'
+    before_title: '<a href="https://rmi.org"><img src="https://rmi-pacta.github.io/pacta_pkgdown_template/logo.png" id="navlogo" alt="Rocky Mountain Institute"></a>'
   bootstrap: 5
   bslib:
     bg: "white"
@@ -29,12 +29,8 @@ navbar:
 
 
 authors:
-  2 Degrees Investing Initiative:
-    href: https://2degrees-investing.org
-    html: <img src='2DII-Logo-Blue.svg' height=24>
+  Rocky Mountain Institute:
+    href: https://rmi.org
+    html: <img src='logo.png' height=24>
   CJ Yetman:
     href: https://github.com/cjyetman
-  Mauro Lepore:
-    href: https://github.com/maurolepore
-  Monika Furdyna:
-    href: https://github.com/MonikaFu
