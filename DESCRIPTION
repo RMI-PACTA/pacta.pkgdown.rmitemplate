@@ -1,5 +1,5 @@
-Package: r2diitemplate
-Title: A pkgdown template for 2dii
+Package: pacta_pkgdown_template
+Title: A pkgdown template for RMI PACTA R packages
 Version: 0.1.0
 Authors@R: c(
     person(given = "CJ",
@@ -7,11 +7,11 @@ Authors@R: c(
            role = c("aut", "cre"),
            email = "cj@cjyetman.com",
            comment = c(ORCID = "0000-0001-5099-9500")),
-    person("2 Degrees Investing Initiative", , , "contact@2degrees-investing.org", role = c("cph", "fnd"))
+    person("Rocky Mountain Institute", , , "PACTA4investors@rmi.org", role = c("cph", "fnd"))
   )
-Description: This is a pkgdown template intended to be used for pkgdown sites created for 2dii's R packages.
+Description: This is a pkgdown template intended to be used for pkgdown sites created for RMI PACTA R packages.
 License: MIT + file LICENSE
-URL: https://github.com/2DegreesInvesting/r2diitemplate
-BugReports: https://github.com/2DegreesInvesting/r2diitemplate/issues
+URL: https://github.com/rmi-pacta/pacta_pkgdown_template
+BugReports: https://github.com/rmi-pacta/pacta_pkgdown_template/issues
 Encoding: UTF-8
-Config/Needs/website: 2DegreesInvesting/r2diitemplate
+Config/Needs/website: rmi-pacta/pacta_pkgdown_template
