@@ -1,6 +1,6 @@
 template:
   includes:
-    before_title: '<a href="https://rmi.org"><img src="https://rmi-pacta.github.io/pacta_pkgdown_template/logo.png" id="navlogo" alt="Rocky Mountain Institute"></a>'
+    before_title: '<a href="https://rmi.org"><img src="https://rmi-pacta.github.io/pacta.pkgdown.template/logo.png" id="navlogo" alt="Rocky Mountain Institute"></a>'
   bootstrap: 5
   bslib:
     bg: "white"
