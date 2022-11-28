@@ -1,6 +1,6 @@
 template:
   includes:
-    before_title: '<a href="https://rmi.org"><img src="https://rmi-pacta.github.io/pacta.pkgdown.template/rmi_logo_horitzontal_no_tagline.svg" id="navlogo" alt="Rocky Mountain Institute"></a>'
+    before_title: '<a href="https://rmi.org"><img src="https://rmi-pacta.github.io/pacta.pkgdown.template/rmi_logo_horitzontal_no_tagline.svg" id="navlogo" alt="RMI"></a>'
   bootstrap: 5
   bslib:
     bg: "white"
@@ -29,7 +29,7 @@ navbar:
 
 
 authors:
-  Rocky Mountain Institute:
+  RMI:
     href: https://rmi.org
     html: <img src='rmi_logo_horitzontal_no_tagline.svg' height=24>
   CJ Yetman:
