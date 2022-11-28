@@ -1,6 +1,6 @@
 template:
   includes:
-    before_title: '<a href="https://rmi.org"><img src="https://rmi-pacta.github.io/pacta.pkgdown.template/logo.png" id="navlogo" alt="Rocky Mountain Institute"></a>'
+    before_title: '<a href="https://rmi.org"><img src="https://rmi-pacta.github.io/pacta.pkgdown.template/rmi_logo_horitzontal_no_tagline.svg" id="navlogo" alt="Rocky Mountain Institute"></a>'
   bootstrap: 5
   bslib:
     bg: "white"
@@ -12,14 +12,14 @@ template:
     headings-color: "#5c677e"
     navbar-brand-font-size: "2rem"
     navbar-light-color: "white"
-    navbar-dark-brand-color: "#103351"
-    navbar-dark-brand-hover-color: "#00C082"
+    navbar-dark-brand-color: "#003b63"
+    navbar-dark-brand-hover-color: "#45cfcc"
     text-muted: "#54585F"
-    navbar-light-hover-color: "#00C082"
+    navbar-light-hover-color: "#45cfcc"
     gray-300: "#dee2e6"
     border-radius: 0.5rem
     btn-border-radius: 0.25rem
-    base_font: {google: "IBM Plex Sans"}
+    base_font: {google: "Overpass"}
     heading_font: {google: "Corben"}
 navbar:
   bg: white
