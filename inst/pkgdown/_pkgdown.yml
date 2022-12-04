@@ -21,8 +21,8 @@ template:
     base_font: {google: "Overpass"}
     heading_font: {google: "Overpass"}
 navbar:
-  bg: "#003b63"
-  fg: "white"
+  bg-dark: "#003b63"
+  fg-dark: "white"
   structure:
     left:  []
     right: [search, intro, reference, articles, tutorials, news, github]
