@@ -5,6 +5,7 @@ template:
     fg: "#003b63"
     primary: "#45cfcc"
     text-muted: "#92969c"
+    navbar-dark-bg: "#003b63"
     dropdown-link-hover-bg: "#64a4ef"
     dropdown-link-hover-color: "white"
     dropdown-link-active-color: "white"
@@ -19,7 +20,7 @@ template:
     btn-border-radius: 0.25rem
     base_font: {google: "Overpass"}
     heading_font: {google: "Overpass"}
-navbar-dark:
+navbar:
   bg: "#003b63"
   fg: "white"
   structure:
