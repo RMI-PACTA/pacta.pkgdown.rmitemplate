@@ -1,5 +1,5 @@
 
-# pacta.pkgdown.template <a href="https://rmi-pacta.github.io/pacta.pkgdown.template"><img src="inst/pkgdown/assets/logo.png" align="right" height="31" /></a>
+# pacta.pkgdown.template <a href="https://rmi-pacta.github.io/pacta.pkgdown.template"><img src="man/figures/logo.png" align="right" height="31" /></a>
 
 <!-- badges: start -->
 <!-- badges: end -->
