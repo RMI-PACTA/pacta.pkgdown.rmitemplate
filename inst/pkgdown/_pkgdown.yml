@@ -19,7 +19,7 @@ template:
     btn-border-radius: 0.25rem
     base_font: {google: "Overpass"}
     heading_font: {google: "Overpass"}
-navbar:
+navbar-dark:
   bg: "#003b63"
   fg: "white"
   structure:
