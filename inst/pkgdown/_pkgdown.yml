@@ -4,8 +4,8 @@ template:
   bootstrap: 5
   bslib:
     bg: "white"
-    fg: "#103351"
-    primary: "#0e2c46"
+    fg: "#003b63"
+    primary: "#45cfcc"
     dropdown-link-hover-bg: "#64a4ef"
     dropdown-link-hover-color: "white"
     dropdown-link-active-color: "white"
