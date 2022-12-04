@@ -6,6 +6,7 @@ template:
     bg: "white"
     fg: "#003b63"
     primary: "#45cfcc"
+    text-muted: "#92969c"
     dropdown-link-hover-bg: "#64a4ef"
     dropdown-link-hover-color: "white"
     dropdown-link-active-color: "white"
@@ -14,7 +15,6 @@ template:
     navbar-light-color: "#003b63"
     navbar-dark-brand-color: "#fff"
     navbar-dark-brand-hover-color: "#45cfcc"
-    text-muted: "#54585F"
     navbar-light-hover-color: "#45cfcc"
     gray-300: "#dee2e6"
     border-radius: 0.5rem
