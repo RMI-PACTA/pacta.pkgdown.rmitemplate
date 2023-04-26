@@ -9,7 +9,7 @@ template:
     dropdown-link-hover-bg: "#64a4ef"
     dropdown-link-hover-color: "white"
     dropdown-link-active-color: "white"
-    headings-color: "#5c677e"
+    headings-color: "#fff"
     navbar-brand-font-size: "2rem"
     navbar-light-color: "#003b63"
     navbar-dark-brand-color: "#fff"
