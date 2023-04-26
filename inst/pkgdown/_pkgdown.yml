@@ -12,6 +12,8 @@ template:
     headings-color: "#fff"
     navbar-brand-font-size: "2rem"
     navbar-light-color: "#003b63"
+    navbar-brand-color: "#fff"
+    navbar-nav-color: "#fff"
     navbar-dark-brand-color: "#fff"
     navbar-dark-brand-hover-color: "#45cfcc"
     navbar-light-hover-color: "#45cfcc"
