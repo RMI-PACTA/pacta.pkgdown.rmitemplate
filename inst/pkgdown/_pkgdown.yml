@@ -9,11 +9,8 @@ template:
     dropdown-link-hover-bg: "#64a4ef"
     dropdown-link-hover-color: "white"
     dropdown-link-active-color: "white"
-    headings-color: "#fff"
     navbar-brand-font-size: "2rem"
     navbar-light-color: "#003b63"
-    navbar-brand-color: "#fff"
-    navbar-nav-color: "#fff"
     navbar-dark-brand-color: "#fff"
     navbar-dark-brand-hover-color: "#45cfcc"
     navbar-light-hover-color: "#45cfcc"
@@ -29,18 +26,23 @@ navbar:
     left:  []
     right: [search, intro, reference, articles, tutorials, news, github]
 
-
 authors:
   RMI:
     href: https://rmi.org
     html: <img src='rmi_logo_horitzontal_no_tagline.svg' height=24>
+    # html: <img src='https://github.com/RMI.png?size=40'>
   CJ Yetman:
     href: https://github.com/cjyetman
+    # html: <img src='https://github.com/cjyetman.png?size=40'>
   Jackson Hoffart:
     href: https://github.com/jdhoffa
+    # html: <img src='https://github.com/jdhoffa.png?size=40'>
   Alex Axthelm:
     href: https://github.com/AlexAxthelm
+    # html: <img src='https://github.com/AlexAxthelm.png?size=40'>
   Jacob Kastl:
     href: https://github.com/jacobvjk
+    # html: <img src='https://github.com/jacobvjk.png?size=40'>
   Monika Furdyna:
     href: https://github.com/MonikaFu
+    # html: <img src='https://github.com/MonikaFu.png?size=40'>
