@@ -24,7 +24,7 @@ navbar:
   fg-dark: "white"
   structure:
     left:  []
-    right: [search, intro, reference, articles, tutorials, news, github]
+    right: [intro, reference, articles, tutorials, news, github, search]
 
 authors:
   RMI:
