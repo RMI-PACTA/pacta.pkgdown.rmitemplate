@@ -2,6 +2,7 @@
 # pacta.pkgdown.template <a href="https://rmi.org"><img src="man/figures/logo.png" align="right" height="31" /></a>
 
 <!-- badges: start -->
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
 
 pacta.pkgdown.template provides a custom pkgdown template for RMI PACTA R packages. Please don't use it for your own package if it's not a PACTA package.
