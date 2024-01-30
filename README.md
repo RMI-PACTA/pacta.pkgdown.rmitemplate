@@ -17,8 +17,8 @@ meant to follow the limited documentation of a [pkgdown template](https://pkgdow
 You can install the development version of pacta.pkgdown.template from [GitHub](https://github.com/) with:
 
 ``` r
-# install.packages("devtools")
-devtools::install_github("rmi-pacta/pacta.pkgdown.template")
+# install.packages("pak")
+pak::pak("rmi-pacta/pacta.pkgdown.template")
 ```
 
 
