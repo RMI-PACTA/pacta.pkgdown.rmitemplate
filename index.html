@@ -63,31 +63,31 @@
 <div class="row">
   <main id="main" class="col-md-9"><div class="section level1">
 <div class="page-header">
-<img src="logo.png" class="logo" alt=""><h1 id="pactapkgdowntemplate-">pacta.pkgdown.template 
-<a class="anchor" aria-label="anchor" href="#pactapkgdowntemplate-"></a>
+<img src="logo.png" class="logo" alt=""><h1 id="pactapkgdownrmitemplate-">pacta.pkgdown.rmitemplate 
+<a class="anchor" aria-label="anchor" href="#pactapkgdownrmitemplate-"></a>
 </h1>
 </div>
 <!-- badges: start -->
 
-<p>pacta.pkgdown.template provides a custom pkgdown template for RMI PACTA R packages. Please don’t use it for your own package if it’s not a PACTA package.</p>
+<p>pacta.pkgdown.rmitemplate provides a custom pkgdown template for RMI PACTA R packages. Please don’t use it for your own package if it’s not a PACTA package.</p>
 <p>inspired by <a href="https://github.com/tidyverse/tidytemplate/" class="external-link">tidytemplate</a> and <a href="https://github.com/ropensci-org/rotemplate" class="external-link">rotemplate</a></p>
 <p>meant to follow the limited documentation of a <a href="https://pkgdown.r-lib.org/articles/customise.html#template-packages" class="external-link">pkgdown template</a></p>
 <div class="section level2">
 <h2 id="installation">Installation<a class="anchor" aria-label="anchor" href="#installation"></a>
 </h2>
-<p>You can install the development version of pacta.pkgdown.template from <a href="https://github.com/" class="external-link">GitHub</a> with:</p>
+<p>You can install the development version of pacta.pkgdown.rmitemplate from <a href="https://github.com/" class="external-link">GitHub</a> with:</p>
 <div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="co"># install.packages("pak")</span></span>
-<span><span class="fu">pak</span><span class="fu">::</span><span class="fu"><a href="https://pak.r-lib.org/reference/pak.html" class="external-link">pak</a></span><span class="op">(</span><span class="st">"rmi-pacta/pacta.pkgdown.template"</span><span class="op">)</span></span></code></pre></div>
+<span><span class="fu">pak</span><span class="fu">::</span><span class="fu"><a href="https://pak.r-lib.org/reference/pak.html" class="external-link">pak</a></span><span class="op">(</span><span class="st">"rmi-pacta/pacta.pkgdown.rmitemplate"</span><span class="op">)</span></span></code></pre></div>
 </div>
 <div class="section level2">
 <h2 id="usage">Usage<a class="anchor" aria-label="anchor" href="#usage"></a>
 </h2>
 <p>Set it as your site’s theme in <code>_pkgdown.yaml</code>:</p>
 <div class="sourceCode" id="cb2"><pre class="sourceCode yml"><code class="sourceCode yaml"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">template</span><span class="kw">:</span></span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">package</span><span class="kw">:</span><span class="at"> pacta.pkgdown.template</span></span></code></pre></div>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">package</span><span class="kw">:</span><span class="at"> pacta.pkgdown.rmitemplate</span></span></code></pre></div>
 <p>If you’re building your site using a GitHub action or other similar tool, you’ll also need to install r2diitemplate in the runner. If you’re using the <a href="https://github.com/r-lib/actions/blob/v2-branch/examples/pkgdown.yaml" class="external-link">r-lib pkgdown workflow</a>, you can add the following line to your DESCRIPTION:</p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>Config<span class="sc">/</span>Needs<span class="sc">/</span>website<span class="sc">:</span> rmi<span class="sc">-</span>pacta<span class="sc">/</span>pacta.pkgdown.template</span></code></pre></div>
+<div class="sourceCode" id="cb3"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>Config<span class="sc">/</span>Needs<span class="sc">/</span>website<span class="sc">:</span> rmi<span class="sc">-</span>pacta<span class="sc">/</span>pacta.pkgdown.rmitemplate</span></code></pre></div>
 </div>
 </div>
   </main><aside class="col-md-3"><div class="links">
