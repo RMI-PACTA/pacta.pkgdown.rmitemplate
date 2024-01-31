@@ -1,4 +1,4 @@
-url: https://rmi-pacta.github.io/pacta.pkgdown.template
+url: https://rmi-pacta.github.io/pacta.pkgdown.rmitemplate
 template:
-  package: pacta.pkgdown.template
+  package: pacta.pkgdown.rmitemplate
 
