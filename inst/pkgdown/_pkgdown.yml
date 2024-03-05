@@ -1,27 +1,24 @@
 template:
   bootstrap: 5
   bslib:
-    bg: "white"
-    fg: "#003b63"
+    base_font: {google: "Overpass"}
+    heading_font: {google: "Overpass"}
+    border-radius: 0.5rem
+    btn-border-radius: 0.25rem
+    info: "#003b63"
+    headings-color: "#003b63"
     primary: "#45cfcc"
     text-muted: "#92969c"
-    navbar-dark-bg: "#003b63"
     dropdown-link-hover-bg: "#64a4ef"
     dropdown-link-hover-color: "white"
     dropdown-link-active-color: "white"
-    navbar-brand-font-size: "2rem"
-    navbar-light-color: "#003b63"
-    navbar-dark-brand-color: "#fff"
-    navbar-dark-brand-hover-color: "#45cfcc"
-    navbar-light-hover-color: "#45cfcc"
     gray-300: "#dee2e6"
-    border-radius: 0.5rem
-    btn-border-radius: 0.25rem
-    base_font: {google: "Overpass"}
-    heading_font: {google: "Overpass"}
+    navbar-dark-color: "white"
+    navbar-dark-brand-color: "#white"
+    navbar-dark-brand-hover-color: "#45cfcc"
+    navbar-dark-active-color: "white"
 navbar:
-  bg-dark: "#003b63"
-  fg-dark: "white"
+  bg: info
   structure:
     left:  []
     right: [intro, reference, articles, tutorials, news, github, search]
@@ -30,7 +27,6 @@ authors:
   RMI:
     href: https://rmi.org
     html: <img src='rmi_logo_horitzontal_no_tagline.svg' height=24>
-    # html: <img src='https://github.com/RMI.png?size=40'>
   CJ Yetman:
     href: https://github.com/cjyetman
     # html: <img src='https://github.com/cjyetman.png?size=40'>
