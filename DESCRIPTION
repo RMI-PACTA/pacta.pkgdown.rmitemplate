@@ -7,6 +7,11 @@ Authors@R: c(
            role = c("aut", "cre"),
            email = "jackson.hoffart@gmail.com",
            comment = c(ORCID = "0000-0002-8600-5042")),
+    person(given = "CJ",
+             family = "Yetman",
+             role = c("aut", "ctr"),
+             email = "cj@cjyetman.com",
+             comment = c(ORCID = "0000-0001-5099-9500")),
     person("RMI", , , "PACTAtech@rmi.org", role = c("cph", "fnd"))
   )
 Description: This is a pkgdown template intended to be used for pkgdown sites created for RMI PACTA R packages.
