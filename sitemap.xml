@@ -1,18 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://rmi-pacta.github.io/pacta.pkgdown.rmitemplate/404.html</loc>
-  </url>
-  <url>
-    <loc>https://rmi-pacta.github.io/pacta.pkgdown.rmitemplate/LICENSE-text.html</loc>
-  </url>
-  <url>
-    <loc>https://rmi-pacta.github.io/pacta.pkgdown.rmitemplate/authors.html</loc>
-  </url>
-  <url>
-    <loc>https://rmi-pacta.github.io/pacta.pkgdown.rmitemplate/index.html</loc>
-  </url>
-  <url>
-    <loc>https://rmi-pacta.github.io/pacta.pkgdown.rmitemplate/reference/index.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://rmi-pacta.github.io/pacta.pkgdown.rmitemplate/404.html</loc></url>
+<url><loc>https://rmi-pacta.github.io/pacta.pkgdown.rmitemplate/LICENSE-text.html</loc></url>
+<url><loc>https://rmi-pacta.github.io/pacta.pkgdown.rmitemplate/authors.html</loc></url>
+<url><loc>https://rmi-pacta.github.io/pacta.pkgdown.rmitemplate/index.html</loc></url>
+<url><loc>https://rmi-pacta.github.io/pacta.pkgdown.rmitemplate/reference/index.html</loc></url>
 </urlset>
+
