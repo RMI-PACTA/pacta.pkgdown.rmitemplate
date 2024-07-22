@@ -17,6 +17,7 @@ template:
     navbar-dark-brand-color: "#white"
     navbar-dark-brand-hover-color: "#45cfcc"
     navbar-dark-active-color: "white"
+  light-switch: true
 navbar:
   bg: info
   structure:
