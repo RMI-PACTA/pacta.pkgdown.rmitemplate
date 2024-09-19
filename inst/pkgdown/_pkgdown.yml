@@ -26,7 +26,7 @@ navbar:
 authors:
   RMI:
     href: https://rmi.org
-    html: <img src='rmi_logo_horitzontal_no_tagline.svg' height=24>
+    html: <img src='rmi_logo_horitzontal_no_tagline.svg' alt="RMI logo" height=24>
   CJ Yetman:
     href: https://github.com/cjyetman
     # html: <img src='https://github.com/cjyetman.png?size=40'>
